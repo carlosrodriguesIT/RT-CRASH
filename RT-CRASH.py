@@ -78,3 +78,4 @@ elif arg.tipo == '6':
                 hash = busca, text = x, xD = ('-'*30)))
             break
 print('Finalizado')
+
